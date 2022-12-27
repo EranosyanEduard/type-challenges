@@ -1,4 +1,5 @@
 export * from './concat'
+export * from './flatten'
 export * from './head'
 export * from './length'
 export * from './push'
