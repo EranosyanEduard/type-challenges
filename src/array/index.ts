@@ -1,4 +1,5 @@
 export * from './concat'
+export * from './head'
 export * from './length'
 export * from './push'
 export * as To from './to'
