@@ -1,6 +1,7 @@
 export * from './concat'
 export * from './flatten'
 export * from './head'
+export * from './last'
 export * from './length'
 export * from './push'
 export * as To from './to'
