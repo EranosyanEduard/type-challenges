@@ -1,3 +1,4 @@
+import type { MyPartial } from './partial'
 import type { MyReadonly } from './readonly'
 
-export type { MyReadonly as READONLY }
+export type { MyPartial as PARTIAL, MyReadonly as READONLY }
