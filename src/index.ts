@@ -1,6 +1,7 @@
 export * as Arr from './array'
 export * as Fun from './function'
 export * as Is from './is'
+export * as Num from './number'
 export * as Obj from './object'
 export * as Str from './string'
 export * as Union from './union'
