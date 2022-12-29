@@ -1,3 +1,4 @@
+import type { MyOmit } from './omit'
 import type { MyPick } from './pick'
 
-export type { MyPick as PICK }
+export type { MyOmit as OMIT, MyPick as PICK }
