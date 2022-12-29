@@ -1,3 +1,4 @@
+export * from './append'
 export * as By from './by'
 export * from './deep-readonly'
 export * from './diff'
